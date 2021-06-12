@@ -3,11 +3,15 @@
   <entry>
     <title>Readme</title>
     <url>/2021/06/12/Readme/</url>
-    <content><![CDATA[<h1 id="关于博客的建设目的"><a href="#关于博客的建设目的" class="headerlink" title="关于博客的建设目的"></a>关于博客的建设目的</h1><p>为了更方便的学习！<br>为了减少学习成本！<br>为了增加学习快乐！<br>未来会增加交流区！</p>
+    <content><![CDATA[<h1 id="关于博客的建设目的"><a href="#关于博客的建设目的" class="headerlink" title="关于博客的建设目的"></a>关于博客的建设目的</h1><p>为了更方便的学习！(你是不是不知道该查什么文献？)<br>为了减少学习成本！(你是不是不知道该看什么书？)<br>为了增加学习快乐！(你是不是获得了感悟而又无处分享？)<br>未来会增加交流区！(你是不是遇到问题而又一个人无法解决？)</p>
 <h1 id="如何参与建设博客"><a href="#如何参与建设博客" class="headerlink" title="如何参与建设博客"></a>如何参与建设博客</h1><p>目前，我打算把博客的学习板块分成两部分：</p>
 <ul>
 <li>软件学习</li>
-<li>理论知识</li>
+<li>理论知识<h2 id="使用Markdown即可参与博客建设"><a href="#使用Markdown即可参与博客建设" class="headerlink" title="使用Markdown即可参与博客建设"></a>使用Markdown即可参与博客建设</h2>如果你想参与建设，那就来撰写博客文章吧，将你的文章用Markdwon写出来，传到网站上就可与大家分享！<br>维护工作目前只有我自己在做，如果你想加入，联系我：QQ1174640558</li>
+</ul>
+<h2 id="Markdown使用方法"><a href="#Markdown使用方法" class="headerlink" title="Markdown使用方法"></a>Markdown使用方法</h2><ul>
+<li><a href="https://winney07.github.io/2018/08/02/%E5%9C%A8Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0/#:~:text=1%E3%80%81%E6%96%B0%E5%BB%BA%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0&text=%EF%BC%882%EF%BC%89%E5%9C%A8%E5%8D%9A%E5%AE%A2%E7%9B%AE%E5%BD%95%E4%B8%8B,%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%8D%B3%E5%8F%AF%E3%80%82">winney的文章</a></li>
+<li><a href="https://xianbai.me/learn-md/index.html">markdown语法说明书</a></li>
 </ul>
 <span id="more"></span>
 ]]></content>
